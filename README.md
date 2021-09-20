@@ -28,4 +28,4 @@ In chat type '/idlecamon' to toggle it on, and '/idlecamoff' to turn it back off
 
 _**Video Preview:**_
 
-[![NoIdleCam For FiveM] (https://img.youtube.com/vi/fbNFSCHI5GI/0.jpg) (https://www.youtube.com/watch?v=fbNFSCHI5GI)
+[![NoIdleCam For FiveM] (<img src="Screenshots/a.jpg" width="250">) (https://www.youtube.com/watch?v=fbNFSCHI5GI)
