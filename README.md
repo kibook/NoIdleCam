@@ -25,3 +25,7 @@ In chat type '/idlecamon' to toggle it on, and '/idlecamoff' to turn it back off
 |-|-|-|
 | <img src="Screenshots/a.jpg" width="250"> | <img src="Screenshots/b.jpg" width="250"> | <img src="Screenshots/c.jpg" width="250"> |
 | <img src="Screenshots/d.jpg" width="250"> |
+
+_**Video Preview:**_
+
+[![NoIdleCam For FiveM](https://www.youtube.com/watch?v=fbNFSCHI5GI)
