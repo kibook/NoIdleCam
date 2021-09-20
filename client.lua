@@ -1,4 +1,4 @@
-local idle = false
+local idleCamDisabled = true
 
 RegisterCommand('idlecamoff', function() -- help2 31, 167, 9 
     TriggerEvent('chat:addMessage', {
@@ -6,7 +6,7 @@ RegisterCommand('idlecamoff', function() -- help2 31, 167, 9
         multiline = true,
         args = {'[COMMANDS]', 'Idle Cam Is Now Off'}
     })
-    idle = true
+    idleCamDisabled = true
 end)
 
 RegisterCommand('idlecamon', function() -- help2 31, 167, 9 
@@ -15,12 +15,12 @@ RegisterCommand('idlecamon', function() -- help2 31, 167, 9
         multiline = true,
         args = {'[COMMANDS]', 'Idle Cam Is Now On'}
     })
-    idle = false
+    idleCamDisabled = false
 end)
 
 Citizen.CreateThread(function()
     while true do
-    if not idle then
+   if idleCamDisabled then
         InvalidateIdleCam()
         InvalidateVehicleIdleCam()
         Citizen.Wait(10000)
