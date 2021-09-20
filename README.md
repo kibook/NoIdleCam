@@ -23,5 +23,5 @@ In chat type '/idlecamon' to toggle it on, and '/idlecamoff' to turn it back off
 
 | | | |
 |-|-|-|
-| <img src="screenshots/a.jpg" width="250"> | <img src="screenshots/b.jpg" width="250"> | <img src="screenshots/c.jpg" width="250"> |
-| <img src="screenshots/d.jpg" width="250"> |
+| <img src="Screenshots/a.jpg" width="250"> | <img src="Screenshots/b.jpg" width="250"> | <img src="Screenshots/c.jpg" width="250"> |
+| <img src="Screenshots/d.jpg" width="250"> |
