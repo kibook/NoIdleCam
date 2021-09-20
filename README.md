@@ -12,4 +12,5 @@ Made with [[pmms](https://github.com/kibook/pmms)] in mind 🐩
 
 2. Add start NoIdleCam to your server.cfg
 
+
 # Enjoy 🥰📺
