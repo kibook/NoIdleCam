@@ -28,6 +28,4 @@ In chat type '/idlecamon' to toggle it on, and '/idlecamoff' to turn it back off
 
 _**Video Preview:**_
 
-<img src="Screenshots/a.jpg" width="250">) 
-
-(https://www.youtube.com/watch?v=fbNFSCHI5GI)
+https://www.youtube.com/watch?v=fbNFSCHI5GI
