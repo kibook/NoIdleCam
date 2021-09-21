@@ -4,14 +4,14 @@ NoIdleCam is a FiveM resources that disables the idle camera animations while on
 
 Players can toggle this on or off in chat and have their preferences saved in the kvs. It will be remembered between game sessions and on any server that uses this resource.
 
-Watch Twitch or YouTube streams on in game TV screens or possibly during RP scenarios, without drifting off into the clouds.
+Watch Twitch or YouTube streams on in-game TV screens or possibly during RP scenarios, without drifting off into the clouds.
 
 
 # Installing:
 
 1. Add to your `resources folder` or `[Scripts]` folder
 
-2. Add start NoIdleCam to your server.cfg. The resource must be named NoIdleCam for the kvs to work
+2. Add `start NoIdleCam` to your `server.cfg`. The resource **must** be named NoIdleCam for the kvs to work.
 
 # Toggle ON/OFF
 
