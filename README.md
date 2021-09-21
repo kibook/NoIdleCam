@@ -11,7 +11,9 @@ Watch Twitch or YouTube streams on in-game TV screens or possibly during RP scen
 
 1. Add to your `resources folder` or `[Scripts]` folder
 
-2. Add `start NoIdleCam` to your `server.cfg`. The resource **must** be named NoIdleCam for the kvs to work.
+2. Add `start NoIdleCam` to your `server.cfg`. 
+
+**The resource must be named NoIdleCam for the kvs to work.**
 
 # Toggle ON/OFF
 
