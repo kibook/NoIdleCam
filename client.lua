@@ -4,7 +4,7 @@ RegisterCommand('idlecamoff', function() -- help2 31, 167, 9
     multiline = true,
     args = {'[COMMANDS]', 'Idle Cam Is Now Off'}
   })
-  DisableIdleCam(true)
+  DisableIdleCamera(true)
   SetResourceKvp("idleCam", "off")
 end)
 
@@ -14,7 +14,7 @@ RegisterCommand('idlecamon', function() -- help2 31, 167, 9
     multiline = true,
     args = {'[COMMANDS]', 'Idle Cam Is Now On'}
   })
-  DisableIdleCam(false)
+  DisableIdleCamera(false)
   SetResourceKvp("idleCam", "on")
 end)
 
@@ -23,5 +23,5 @@ Citizen.CreateThread(function()
   TriggerEvent("chat:addSuggestion", "/idlecamoff", "Disables the idle cam")
   
   local idleCamDisabled = GetResourceKvpString("idleCam") ~= "on"
-  DisableIdleCam(idleCamDisabled)
+  DisableIdleCamera(idleCamDisabled)
 end)
